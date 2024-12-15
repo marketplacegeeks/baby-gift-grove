@@ -5,6 +5,11 @@ const Hero = () => {
     <div className="relative bg-registry-light-purple/20 py-20 px-4 sm:px-6 lg:px-8">
       <div className="max-w-7xl mx-auto">
         <div className="text-center">
+          <img 
+            src="https://lmg.a.bigcontent.io/v1/static/website_images_logos_babyshop_ae_en_logo-babyshop?fmt=auto" 
+            alt="Babyshop Logo" 
+            className="h-12 mx-auto mb-12"
+          />
           <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold text-gray-900 mb-6">
             Create Your Perfect
             <span className="text-registry-purple block">Baby Registry</span>
