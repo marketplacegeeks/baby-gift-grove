@@ -97,7 +97,7 @@ const Hero = () => {
                   <div className="text-center">
                     <div className="h-40 w-40 mx-auto mb-4 overflow-hidden rounded-full">
                       <img 
-                        src="https://images.unsplash.com/photo-1623093595708-a6c7d1b63f5e?q=80&w=2938&auto=format&fit=crop"
+                        src="https://images.unsplash.com/photo-1602407069119-e0c6f1602e31?q=80&w=1974&auto=format&fit=crop"
                         alt="Baby Girl"
                         className="w-full h-full object-cover"
                       />
