@@ -15,7 +15,7 @@ const faqs = [
     answer: "Your registry will remain active for 365 days after your event date. You'll also receive completion discounts on remaining items.",
   },
   {
-    question: "Can I return registry gifts?,"
+    question: "Can I return registry gifts?",
     answer: "Yes, most registry gifts can be returned within 365 days for store credit or exchange.",
   },
 ];
