@@ -14,7 +14,7 @@ const ShukranLoginDialog = ({ open, onOpenChange, onContinue }: ShukranLoginDial
         <DialogHeader className="text-center space-y-6">
           <div className="flex justify-center">
             <img 
-              src="/lovable-uploads/7a4a5135-a397-4df3-8ad9-796640f53907.png" 
+              src="/lovable-uploads/b2b8595a-5d42-46d0-805d-a042d58652b9.png" 
               alt="Shukran Logo" 
               className="h-24 object-contain"
             />
